@@ -1,0 +1,181 @@
+
+.cv-content{
+    display: flex;
+    width: 1120px;
+    color: #3c4e54d6;
+    padding: 0px 20px 30px 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.info-box{
+    background-color:#CAE6EF;
+    height: 1230px;
+    width: 300px;
+    padding: 65px 40px;
+    position: relative;
+    left: 50px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.profile-img{
+    width: 220px;
+    height: 150px;
+}
+
+.profile-img img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+
+.contact-me{
+    position: relative;
+    top: 140px;
+    /* line-height: 20px; */
+}
+
+.contact-me .contact-detail{
+    position: relative;
+    top: 15px;
+    line-height: 0px;
+}
+
+.contact-me span{
+    margin-left: 7px;
+}
+
+.contact-me a{
+    margin-left: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.info-box .profile{
+    position: relative;
+    top: 180px;
+    font-size: 14px;
+
+}
+
+.info-box .language{
+    position: relative;
+    top: 200px;
+}
+
+.info-box .language-list{
+    margin-top: 20px;
+    line-height: 7px;
+}
+
+
+.info-box .references{
+    position: relative;
+    top: 230px;
+}
+
+.references .references-info{
+   margin-top: 20px;
+    line-height: 7px;
+}
+
+.references-info a{
+    margin-left: 12px;
+    text-decoration: none;
+    color: black;
+}
+
+.cv-detail .cv-owner{
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+.cv-detail .cv-owner h1{
+font-size: 55px;;
+}
+
+.cv-detail{
+    margin-top: 60px;
+}
+
+.cv-detail .cv-owner p{
+    font-size: 25px;
+}
+
+
+.cv-detail .education h3{
+    position: relative;
+    top: 180px;
+    left: 100px;
+}
+.cv-detail .education .collage{
+    position: relative;
+    top: 190px;
+    left: 100px;
+}
+ .education  .collage-specialty{
+    position: relative;
+    top: 190px;
+    left: 100px;
+}
+.cv-detail .education span{
+    position: relative;
+    top: 170px;
+    left: 100px;
+}
+
+.cv-detail .education .university{
+    position: relative;
+    top: 190px;
+    left: 100px;
+}
+
+.cv-detail .education .university{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    margin-top: 15px;
+}
+
+.cv-detail .education  .university-specialty{
+    position: relative;
+    top: 190px;
+    left: 100px;
+}
+
+.cv-detail .education .course{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    margin-top: 15px;
+}
+
+.cv-detail .education  .course-specialty{
+    position: relative;
+    top: 190px;
+    left: 100px;
+}
+
+.cv-detail .experience{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    margin-top: 15px;
+}
+
+.cv-detail .experience  .experience-first{
+    position: relative;
+    top: 20px;
+}
+.cv-detail .experience  span{
+    position: relative;
+    top: 10px;
+}
+
+.cv-detail .experience p{
+    position: relative;
+    top: 13px;
+    font-size: 20px;
+}
+
